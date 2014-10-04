@@ -1,0 +1,9 @@
+{
+  "name": "pause-all-youtubes",
+  "title": "pause-all-youtubes",
+  "id": "pause-all-youtubes@example.com",
+  "description": "Pauses all Youtube videos currently playing.",
+  "author": "Patrick Pirringer",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
